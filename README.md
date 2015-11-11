@@ -8,7 +8,7 @@ This series is available for Drupalize.Me members at https://drupalize.me/series
 ### Project versions used in this series:
 - Drupal 7.37
 - Zen 7.x-5.5
-- Fences
+- Fences 7.x-1.2
 - Views 7.x-3.13
 - Chaos Tools Suite (CTools) 7.x-1.9
 - Panels 7.x-3.5
