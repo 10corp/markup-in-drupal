@@ -21,7 +21,7 @@ Here are the lessons in this series. The branch name is in parentheses.
 
 1. Zen: Introduction and Installation (01-zen-install)
 2. Why Use a Base Theme? (02-why-base-theme)
-3. Zen: Identify HTML5 Markup in Templates (03-zen-html5-markup)
+3. Zen: Identify HTML5 Markup in Templates (use 01-zen-install)
 4. Markup in Zen: Recap (04-zen-recap)
 5. Fences: Semantic Markup for Fields (05-fences)
 6. Introduction to Markup in Views (06-views-intro)
