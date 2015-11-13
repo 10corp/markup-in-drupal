@@ -1,0 +1,13 @@
+<div class="block block-thumb">
+    <div class="b-inner">
+		<div class="b-thumb">
+			<a href="{{ url }}">{{> atoms-square }}</a> <!-- Field: Image -->
+		</div>
+		<div class="b-text">
+            <!-- Content: Title -->
+			<h2 class="b-title"><a href="{{ url }}">{{ headline.short }}</a></h2>
+            <!-- Body: Summary, trimmed to 200 chars, HTML stripped -->
+			<p>{{ excerpt.medium }}</p>
+		</div>
+    </div>
+</div>
